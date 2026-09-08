@@ -1,0 +1,6 @@
+Para abrir los proyectos en MPLAB 8 seguir la siguiente ruta
+
+Abrir la carpeta firmware de cada equipo hasta llegar a visulizar 3 carpetas cuyos nombres son: Board Support Package
+Graphics y Microchip
+
+Abrir Graphics > Object Layer > el nombre del archivos.mcp

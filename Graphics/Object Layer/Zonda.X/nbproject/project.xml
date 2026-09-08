@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>Zonda</name>
+            <creation-uuid>a6b02e2c-6f48-471b-bb5d-b174a19cc9f2</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>..\..\..\Microchip\Graphics</sourceRootElem>
+                <sourceRootElem>..</sourceRootElem>
+                <sourceRootElem>..\..\..\..\..\ARTRHO&amp;GO\ARTRHO&amp;GO 2019\Microchip\Include</sourceRootElem>
+                <sourceRootElem>..\..\..\Microchip\Graphics\Drivers</sourceRootElem>
+                <sourceRootElem>..\..\..\Microchip\Include</sourceRootElem>
+                <sourceRootElem>..\..\..\Microchip\Common</sourceRootElem>
+                <sourceRootElem>..\..\..\..\..\ARTRHO&amp;GO\ARTRHO&amp;GO 2019\Microchip\Graphics</sourceRootElem>
+                <sourceRootElem>..\Configs</sourceRootElem>
+                <sourceRootElem>..\..\..\..\..\ARTRHO&amp;GO\ARTRHO&amp;GO 2019\Microchip\Include\Graphics</sourceRootElem>
+                <sourceRootElem>..\..\..\Microchip\Include\Graphics</sourceRootElem>
+                <sourceRootElem>..\..\..\..\..\ARTRHO&amp;GO\ARTRHO&amp;GO 2019\Microchip\Include\MDD File System</sourceRootElem>
+                <sourceRootElem>..\..\..\Board Support Package</sourceRootElem>
+                <sourceRootElem>..\Touch_Pilot_7</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
