@@ -1,1 +1,0 @@
-# PILOT_Sonda-2026-MOD2
